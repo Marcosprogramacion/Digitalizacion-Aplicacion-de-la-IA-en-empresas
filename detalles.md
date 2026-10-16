@@ -11,4 +11,4 @@ Aunque el potencial de la inteligencia artificial es inmenso, su adopción en el
 
 ---
 
-¿Quieres volver al inicio? Regresar a la [Página Principal](README.md).
+¿Quieres volver al inicio? Regresar a la [Pagina Principal](README.md).
